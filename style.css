@@ -1,0 +1,24 @@
+.condition-clear {
+    background: silver;
+}
+
+.condition-fullcombo {
+    background: gold;
+}
+
+.condition-donderfulcombo {
+    background: linear-gradient(
+        0.25turn,
+        hsl(0, 80%, 50%),
+        hsl(30, 80%, 50%),
+        hsl(60, 80%, 50%),
+        hsl(90, 80%, 50%),
+        hsl(120, 80%, 50%),
+        hsl(150, 80%, 50%),
+        hsl(180, 80%, 50%),
+        hsl(210, 80%, 50%),
+        hsl(240, 80%, 50%));
+    color: black;
+    text-shadow: 0 0 5px white;
+    font-weight: bold;
+}
