@@ -1,204 +1,204 @@
-LAST CHRISTMAS;0
-I Want You Back;0
-夏祭り / ジッタリン・ジン;0
-夏祭り / ジッタリン・ジン(裏);0
-ブルーバード;0
-夜に駆ける;0
-名探偵コナン メイン･テーマ;0
-Growing of my heart;0
-オー！リバル;0
-さんぽ;0
-さんぽ(裏);0
-風のとおり道;0
-崖の上のポニョ;0
-Sign;0
-Hero's Come Back!!;0
-透明だった世界;0
-D-tecnoLife;0
-アフターダーク;0
-少女S;0
-ウィーゴー！;0
-ウィーキャン！;0
-OVER THE TOP;0
-魔訶不思議アドベンチャー！;0
-Dragon Soul;0
-限界突破×サバイバー;0
-限界突破×サバイバー(裏);0
-となりのトトロ;0
-海の見える街;0
-人生のメリーゴーランド;0
-炎;0
-残酷な天使のテーゼ;0
-残酷な天使のテーゼ(裏);0
-CHA-LA HEAD-CHA-LA;0
-いつも何度でも;0
-君をのせて;0
-インフェルノ;0
-シュガーソングとビターステップ;0
-GO!!!;0
-ウィーアー！;0
-紅蓮の弓矢;0
-only my railgun;0
-君の知らない物語;0
-コネクト;0
-ハレ晴レユカイ;0
-ハレ晴レユカイ(裏);0
-Paradisus-Paradoxum;0
-お願いマッスル;0
-ブラック★ロックシューター;0
-ブリキノダンス;0
-初音ミクの消失-劇場版-;0
-初音ミクの消失-劇場版-(裏);0
-カラ鞠の花;0
-ハッピーシンセサイザ;0
-メルト;0
-ダンスロボットダンス;0
-Tell Your World;0
-みくみくにしてあげる♪【してやんよ】;0
-命に嫌われている。;0
-命に嫌われている。(裏);0
-ワールドイズマイン;0
-脳漿炸裂ガール;0
-脳漿炸裂ガール(裏);0
-花オト裏拍子;0
-ナイト・オブ・ナイツ;0
-Calamity Fortune;0
-Calamity Fortune(裏);0
-ウサテイ;0
-ネクロファンタジア 〜 Arr.Demetori;0
-Grip & Break down !! -達人Edit.-;0
-Grip & Break down !! -達人Edit.-(裏);0
-明星ロケット;0
-魔理沙は大変なものを盗んでいきました;0
-WARNING×WARNING×WARNING;0
-Help me, ERINNNNNN!!;0
-Bad Apple!! feat.nomico;0
-チルノのパーフェクトさんすう教室;0
-チルノのパーフェクトさんすう教室(裏);0
-FREEDOM DiVE↓;0
-「カルメン」より闘牛士の歌;0
-新世界より;0
-トルコ行進曲;0
-トルコ行進曲(裏);0
-ボレロ;0
-モンタギュー家とキャピュレット家;0
-第九交響曲;0
-ハンガリー舞曲第5番;0
-クラシックメドレー（ウェディング編）;0
-おもちゃの兵隊の行進;0
-弩蚊怒夏;0
-レクイエム 怒りの日より;0
-行進曲「くるみ割り人形」から;0
-ラプソディ・イン・ブルー;0
-熊蜂の飛行;0
-美しく忙しきドナウ;0
-美しく忙しきドナウ(裏);0
-ウィリアム・テル序曲;0
-交響曲第五番「運命」;0
-アイネクライネナハトムジーク;0
-オー・ソレ・ミオ;0
-其方、激昂;0
-カルメン 組曲一番終曲;0
-天国と地獄 序曲;0
-木星;0
-エンターテイナー;0
-クラシックメドレー（ロック編）;0
-トッカータとフーガとロック;0
-心の痛み;0
-GOING TO LUNATEA;0
-Ridge Racer;0
-Ridge Racer(裏);0
-ドラゴンスピリットメドレー;0
-ドルアーガの塔メドレー;0
-SAMURAI ROCKET;0
-SAMURAI ROCKET(裏);0
-鷹舞狼吼;0
-DESERT STORM;0
-名乗り（天上）;0
-僕の→地球 僕らの地球;0
-テイルズ オブ ベルセリア メドレー;0
-KARMA(Tatsujin Mix);0
-Wings of Tomorrow(Tatsujin Mix);0
-Comona;0
-The Invincible Blade;0
-Heat Haze Shadow 2;0
-No Way Back;0
-No Way Back(裏);0
-IN THE ZONE;0
-EAT'EM UP!;0
-Brave Sword, Braver Soul;0
-Brave Sword, Braver Soul(裏);0
-テイルズ オブ アライズ 戦闘曲メドレー;0
-相容れぬ念い;0
-MEGALOVANIA;0
-夢と希望;0
-魔界村 （平地BGM）;0
-塊オンザロック〜メインテーマ;0
-Theme of Ryu;0
-Roca Roja;0
-Undying Legend;0
-PAC-MAN CHAMPIONSHIP EDITION 2;0
-Abandoned Temple Final 2nd;0
-Doom Noiz;0
-URBAN FRAGMENTS;0
-Baladium's drive;0
-Baladium's drive(裏);0
-DADDY MULK;0
-CAPTAIN NEO;0
-MAGICAL SOUND SHOWER;0
-シンフォニック ドルアーガ;0
-ナムコットメドレー;0
-X-DAY2000;0
-Behemoth;0
-OK I'm blue rat;0
-Xa;0
-Xa(裏);0
-What's in the box?;0
-ダンガンノーツ;0
+LAST CHRISTMAS;2
+I Want You Back;2
+夏祭り / ジッタリン・ジン;2
+夏祭り / ジッタリン・ジン(裏);2
+ブルーバード;2
+夜に駆ける;2
+名探偵コナン メイン･テーマ;2
+Growing of my heart;3
+オー！リバル;3
+さんぽ;2
+さんぽ(裏);2
+風のとおり道;2
+崖の上のポニョ;3
+Sign;2
+Hero's Come Back!!;2
+透明だった世界;2
+D-tecnoLife;3
+アフターダーク;2
+少女S;2
+ウィーゴー！;2
+ウィーキャン！;2
+OVER THE TOP;2
+魔訶不思議アドベンチャー！;2
+Dragon Soul;2
+限界突破×サバイバー;3
+限界突破×サバイバー(裏);2
+となりのトトロ;2
+海の見える街;3
+人生のメリーゴーランド;2
+炎;3
+残酷な天使のテーゼ;2
+残酷な天使のテーゼ(裏);2
+CHA-LA HEAD-CHA-LA;2
+いつも何度でも;3
+君をのせて;2
+インフェルノ;2
+シュガーソングとビターステップ;2
+GO!!!;2
+ウィーアー！;2
+紅蓮の弓矢;2
+only my railgun;3
+君の知らない物語;2
+コネクト;2
+ハレ晴レユカイ;2
+ハレ晴レユカイ(裏);3
+Paradisus-Paradoxum;2
+お願いマッスル;2
+ブラック★ロックシューター;2
+ブリキノダンス;2
+初音ミクの消失-劇場版-;2
+初音ミクの消失-劇場版-(裏);1
+カラ鞠の花;1
+ハッピーシンセサイザ;2
+メルト;2
+ダンスロボットダンス;2
+Tell Your World;2
+みくみくにしてあげる♪【してやんよ】;2
+命に嫌われている。;2
+命に嫌われている。(裏);2
+ワールドイズマイン;2
+脳漿炸裂ガール;2
+脳漿炸裂ガール(裏);1
+花オト裏拍子;2
+ナイト・オブ・ナイツ;2
+Calamity Fortune;2
+Calamity Fortune(裏);1
+ウサテイ;2
+ネクロファンタジア 〜 Arr.Demetori;2
+Grip & Break down !! -達人Edit.-;2
+Grip & Break down !! -達人Edit.-(裏);2
+明星ロケット;2
+魔理沙は大変なものを盗んでいきました;2
+WARNING×WARNING×WARNING;2
+Help me, ERINNNNNN!!;2
+Bad Apple!! feat.nomico;2
+チルノのパーフェクトさんすう教室;2
+チルノのパーフェクトさんすう教室(裏);2
+FREEDOM DiVE↓;2
+「カルメン」より闘牛士の歌;2
+新世界より;2
+トルコ行進曲;2
+トルコ行進曲(裏);2
+ボレロ;2
+モンタギュー家とキャピュレット家;2
+第九交響曲;2
+ハンガリー舞曲第5番;2
+クラシックメドレー（ウェディング編）;2
+おもちゃの兵隊の行進;2
+弩蚊怒夏;1
+レクイエム 怒りの日より;2
+行進曲「くるみ割り人形」から;2
+ラプソディ・イン・ブルー;2
+熊蜂の飛行;2
+美しく忙しきドナウ;2
+美しく忙しきドナウ(裏);1
+ウィリアム・テル序曲;2
+交響曲第五番「運命」;2
+アイネクライネナハトムジーク;2
+オー・ソレ・ミオ;2
+其方、激昂;1
+カルメン 組曲一番終曲;2
+天国と地獄 序曲;2
+木星;2
+エンターテイナー;2
+クラシックメドレー（ロック編）;2
+トッカータとフーガとロック;2
+心の痛み;2
+GOING TO LUNATEA;2
+Ridge Racer;2
+Ridge Racer(裏);2
+ドラゴンスピリットメドレー;2
+ドルアーガの塔メドレー;2
+SAMURAI ROCKET;2
+SAMURAI ROCKET(裏);2
+鷹舞狼吼;2
+DESERT STORM;2
+名乗り（天上）;2
+僕の→地球 僕らの地球;2
+テイルズ オブ ベルセリア メドレー;2
+KARMA(Tatsujin Mix);2
+Wings of Tomorrow(Tatsujin Mix);1
+Comona;2
+The Invincible Blade;2
+Heat Haze Shadow 2;2
+No Way Back;2
+No Way Back(裏);1
+IN THE ZONE;1
+EAT'EM UP!;2
+Brave Sword, Braver Soul;2
+Brave Sword, Braver Soul(裏);2
+テイルズ オブ アライズ 戦闘曲メドレー;2
+相容れぬ念い;2
+MEGALOVANIA;2
+夢と希望;2
+魔界村 （平地BGM）;2
+塊オンザロック〜メインテーマ;2
+Theme of Ryu;2
+Roca Roja;2
+Undying Legend;2
+PAC-MAN CHAMPIONSHIP EDITION 2;2
+Abandoned Temple Final 2nd;2
+Doom Noiz;1
+URBAN FRAGMENTS;2
+Baladium's drive;2
+Baladium's drive(裏);2
+DADDY MULK;2
+CAPTAIN NEO;2
+MAGICAL SOUND SHOWER;2
+シンフォニック ドルアーガ;2
+ナムコットメドレー;2
+X-DAY2000;2
+Behemoth;1
+OK I'm blue rat;2
+Xa;2
+Xa(裏);1
+What's in the box?;2
+ダンガンノーツ;2
 ダンガンノーツ(裏);0
-パラレルロリポップ;0
-8OROCHI;0
-8OROCHI(裏);0
+パラレルロリポップ;2
+8OROCHI;2
+8OROCHI(裏);1
 poxei♦︎DOON;0
-DEBSTEP!;0
-UNDEAD HEART(怒りのWarriors);0
-メカデス。;0
-メカデス。(裏);0
-めたるぽりす;0
-めたるぽりす(裏);0
-Ignis Danse;0
-Phantom Rider;0
-Phantom Rider(裏);0
-令・和太鼓;0
-天狗囃子;0
-戦国三弦;0
-らんぶる乱舞;0
-らんぶる乱舞(裏);0
-さいたま2000;0
-エンジェル ドリーム;0
-エンジェル ドリーム(裏);0
-虹色・夢色・太鼓色;0
-忍者は最高;0
-Phoenix;0
-ボクハシンセ;0
-音虫をつかまえろ！;0
-太鼓侍;0
-太鼓侍(裏);0
-迅風丸;0
-迅風丸(裏);0
-桜花爛漫;0
-がしゃどくろ;0
-ナイトメア・サバイバー;0
-ナイトメア・サバイバー(裏);0
-Rotter Tarmination;0
-Rotter Tarmination(裏);0
-dance storm;0
-dance storm(裏);0
-Choco Chiptune.;0
-TOKIMEKI♡ですとろいやー！！;0
-星屑ストラック;0
-星屑ストラック(裏);0
-宇宙SAMURAI;0
-STAGE 0.ac11;0
-Black Rose Apostle;0
-Black Rose Apostle(裏);0
+DEBSTEP!;1
+UNDEAD HEART(怒りのWarriors);1
+メカデス。;2
+メカデス。(裏);1
+めたるぽりす;2
+めたるぽりす(裏);2
+Ignis Danse;1
+Phantom Rider;2
+Phantom Rider(裏);2
+令・和太鼓;2
+天狗囃子;2
+戦国三弦;2
+らんぶる乱舞;2
+らんぶる乱舞(裏);2
+さいたま2000;2
+エンジェル ドリーム;2
+エンジェル ドリーム(裏);1
+虹色・夢色・太鼓色;2
+忍者は最高;2
+Phoenix;2
+ボクハシンセ;2
+音虫をつかまえろ！;2
+太鼓侍;2
+太鼓侍(裏);2
+迅風丸;2
+迅風丸(裏);2
+桜花爛漫;2
+がしゃどくろ;2
+ナイトメア・サバイバー;2
+ナイトメア・サバイバー(裏);1
+Rotter Tarmination;2
+Rotter Tarmination(裏);1
+dance storm;2
+dance storm(裏);2
+Choco Chiptune.;2
+TOKIMEKI♡ですとろいやー！！;2
+星屑ストラック;2
+星屑ストラック(裏);1
+宇宙SAMURAI;2
+STAGE 0.ac11;2
+Black Rose Apostle;2
+Black Rose Apostle(裏);2
